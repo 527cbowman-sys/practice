@@ -68,3 +68,31 @@ main {
   color: #fff;
 }
 #btnClear:hover { background-color: #991b1b; }
+
+#btnChangeTitle {
+  background-color: #f59e0b;
+  border-color: #b45309;
+  color: #fff;
+}
+#btnChangeTitle:hover { background-color: #b45309; } 
+
+#btnRandTextColor {
+  background-color: #2563eb;
+  border-color: #1d4ed8;
+  color: #fff;
+}
+#btnRandTextColor:hover { background-color: #1d4ed8; }
+
+#btnRandBgColor {
+  background-color: #7c3aed;
+  border-color: #5b21b6;
+  color: #fff;
+}
+#btnRandBgColor:hover { background-color: #5b21b6; }
+
+#btnAngry {
+  background-color: #dc2626;
+  border-color: #991b1b;
+  color: #fff;
+}
+#btnAngry:hover { background-color: #991b1b; }
